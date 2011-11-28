@@ -1,9 +1,13 @@
-#summary Small Wind Test Site Toolbox
+#summary Small Wind Test Site - H/W Toolbox
 #labels Toolbox,nanode,arduino
 
 = Eveything you need to build your own professional or private small wind turbine test site ==
 
 == _and send real-time data to Pachube via Internet/Ethernet/Wifi/ZigBee/GPRS_ ==
+
+-----
+
+= HW =
 
 == Nanode kit (€ 25) ==
 
@@ -12,6 +16,8 @@ http://wiki.london.hackspace.org.uk/view/Project:Nanode/Building_a_Nanode
 http://www.earthshineelectronics.com/arduino-products/111-nanode-kit.html
 
 http://www.earthshineelectronics.com/Images/nanode.jpg -- €25.00 including shipping
+
+MAC address and 2Kbit permanent storage soldered at back http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en538621
 
 == USB to Serial Adapter (for Arduino/Nanode code download) ==
 
@@ -64,35 +70,6 @@ http://www.windguru.cz/int/index.php?sc=48479
 http://www.google.fr/url?source=imglanding&ct=img&q=http://24leurres.com/wp-content/uploads/2011/01/windguru.jpg&sa=X&ei=flPKTsOYIIvw8QO8-7Bs&ved=0CAsQ8wc&usg=AFQjCNFyStPrBvq52-iDYPf3YNfMKvgcyQ
 
 --- FREE ---
-
-----
-
-= code development =
-
-== Arduino V1 - RC2 ==
-
-http://code.google.com/p/arduino/wiki/Arduino1
-http://www.mercimerenature.com/GoogleCode/Arduino1_RC2.JPG
-http://www.mercimerenature.com/GoogleCode/ArduWind_Start1.JPG
-http://www.mercimerenature.com/GoogleCode/ArduWind_Start2.JPG
-
------
-
-== Version Control System ==
-
-Version Control System: *TortoiseSVN 1.7.1 | Subversion 1.7.1* | for Window7 64-bit - http://tortoisesvn.net/downloads.html
-
-http://tortoisesvn.googlecode.com/svn/trunk/www/images/ContextMenuDirControl.png
-
-http://tortoisesvn.net/screenshots.html
-
------
-
-== Project Repository ==
-
-Project hosted at: http://code.google.com/p/arduwind/ - Repository type: *Subversion*
-
-http://www.mercimerenature.com/GoogleCode/CodeGoogle_ArduWind.JPG
 
 -----
 = Energy Metering =
