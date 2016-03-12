@@ -20,4 +20,6 @@ _see [Free Room](https://pachube.com/feeds/40451)_
 
 [WIKI here](https://github.com/ThierryBrunet/nanodekit/tree/wiki)
 
-Automatically exported from GoogleCode - [see archived project "nanodekit": ](https://code.google.com/archive/p/nanodekit/)
+_Automatically exported from GoogleCode - [see archived project "nanodekit": ](https://code.google.com/archive/p/nanodekit/)_
+
+[Wiki Syntax Here](https://help.github.com/articles/basic-writing-and-formatting-syntax)
