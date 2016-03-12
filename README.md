@@ -1,5 +1,4 @@
 # nanodekit
-Automatically exported from [Link Text] code.google.com/p/nanodekit
 ---
 
 
@@ -18,4 +17,6 @@ _see [Source Code](https://github.com/ThierryBrunet/nanodekit/blob/master/Nanode
 _see [Free Room](https://pachube.com/feeds/40451)_
 
 
-WIKI: [Link Text](https://github.com/ThierryBrunet/nanodekit/tree/wiki)
+[WIKI: ](https://github.com/ThierryBrunet/nanodekit/tree/wiki)
+
+[Automatically exported from GoogleCode - see archived project "nanodekit": ](https://code.google.com/archive/p/nanodekit/)
