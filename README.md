@@ -1,4 +1,4 @@
-# nanodekit
+## nanodekit
 ---
 
 
@@ -8,6 +8,7 @@
 ---
 
 
+  * Testing of a newly built/soldered Nanode kit + testing data feed to Pachube
   * test MAC address
   * DHCP & DNS
   * test Ethernet communication to Pachube by generating a simple ramp
@@ -17,6 +18,6 @@ _see [Source Code](https://github.com/ThierryBrunet/nanodekit/blob/master/Nanode
 _see [Free Room](https://pachube.com/feeds/40451)_
 
 
-[WIKI: ](https://github.com/ThierryBrunet/nanodekit/tree/wiki)
+[WIKI here](https://github.com/ThierryBrunet/nanodekit/tree/wiki)
 
 Automatically exported from GoogleCode - [see archived project "nanodekit": ](https://code.google.com/archive/p/nanodekit/)
