@@ -19,4 +19,4 @@ _see [Free Room](https://pachube.com/feeds/40451)_
 
 [WIKI: ](https://github.com/ThierryBrunet/nanodekit/tree/wiki)
 
-[Automatically exported from GoogleCode - see archived project "nanodekit": ](https://code.google.com/archive/p/nanodekit/)
+Automatically exported from GoogleCode - [see archived project "nanodekit": ](https://code.google.com/archive/p/nanodekit/)
