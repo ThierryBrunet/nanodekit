@@ -10,7 +10,9 @@
 
 ## Nanode kit (€ 25) ##
 
-![http://www.earthshineelectronics.com/Images/nanode.jpg](http://www.earthshineelectronics.com/Images/nanode.jpg) -- €25.00 including shipping
+![Nanode 5 kit](http://www.nanode.eu/wp-content/uploads/2011/12/Kit-list-listing-but-not-finishd.jpg) -- €25.00 including shipping
+
+![Nanode 5 fully assembled](http://www.nanode.eu/wp-content/uploads/2011/12/magandusb.jpg)
 
 http://nanode.eu
 
